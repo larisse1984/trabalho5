@@ -1,0 +1,946 @@
+li{
+    display: inline-block;
+    color: rgb(61, 40, 199);
+    font-size: 25px;
+    margin-right: 20px;
+    text-transform: uppercase;
+
+}
+.w1{
+    background-color: rgb(163, 202, 223);
+    height: 200px;
+}
+.w2{
+    background-color: rgb(161, 181, 230);
+    height: 200px;
+}
+.w3{
+    background-color: rgb(41, 27, 147);
+    height: 200px;
+}
+.nu{
+    width: 50%;
+    margin-top: 40px;
+    
+}
+.hy{
+    width: 50%;
+    margin-top: 40px;
+}
+
+nav{
+    background-color:rgb(169, 229, 229);
+    padding-bottom: 50px;
+    color: black;
+    
+
+}
+    
+
+.contato{
+    text-align: left;
+    font-size: 20px;
+    color: rgb(red, green, blue);
+}
+
+.s3{
+    background-color: rgb(90, 77, 77);
+}
+.s3 div{
+    background-color: white;
+    border: 15px solid rgb(98, 92, 92);
+    border-radius: 25px;
+}
+.s5div h3{
+    text-align: left;
+    margin-left: 100px;
+    line-height: 20px;
+}
+.s6{
+    background-color: rgb(98, 92, 92);
+}
+.s6 div {
+    background-color: white;
+    border: 15px solid rgb(98, 92, 92);
+    border-radius: 25px; 
+    text-align: left;
+    line-height: 20px;
+   
+}
+.clt{
+    width: 40%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.uni{
+    width: 40%;
+    font-size: 40px;
+    margin-left: 750px;
+}
+.s8 div{
+    background-color: white;
+    border: 15px solid rgb(98, 92, 92);
+    border-radius: 25px; 
+    text-align: left;
+    line-height: 20px;
+   
+}
+.fui{
+    width: 100%;
+}
+.S10{
+    background-color: rgb(98, 92, 92);
+}
+.s10 div{
+    background-color: white;
+    border: 15px solid rgb(98, 92, 92);
+    border-radius: 25px; 
+    text-align: left;
+    line-height: 20px;
+   
+}
+.S11{
+    background-color: rgb(98, 92, 92);
+}
+.s11 div{
+    background-color: white;
+    border: 15px solid rgb(98, 92, 92);
+    border-radius: 25px; 
+    text-align: left;
+    line-height: 20px;
+}
+.gastro{
+   font-size: 50px;
+   margin-left: 750px;
+}
+.oftal{
+    font-size: 50px;
+    margin-left: 750px;
+}
+.S12{
+    background-color: rgb(98, 92, 92);
+}
+
+.s12 div{
+    background-color: white;
+    border: 15px solid rgb(98, 92, 92);
+    border-radius: 25px; 
+    text-align: left;
+    line-height: 20px;
+}
+.derma{
+    font-size: 50px;
+    background-color: WHITE;
+}
+.lu1{
+    width: 100%;
+    height: 60%;
+   
+}
+.lu2{
+    font-size: 25px;
+}
+.duoo{
+    width: 60%;
+}
+.lu2 div{
+    color:white;
+    margin-top: 8%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.sim{
+    margin-bottom: 2%;
+    color: black;
+}
+.oi{
+    margin-top: 20px;
+    height: 8%;
+    background-color: sienna;
+}
+
+.s13 div{
+    border :10px solid white
+    
+}
+.s13 div h1{
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.s13 div h2{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.494);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.s13 div button{
+    background-color: orange;
+    color: white;
+    border:none;
+    padding: 10px;
+    margin-top: 105px;
+}
+.s13 img{
+    height: 250px;
+}
+.s13 .div1{
+    background-image: url(../imagem/lua1.jpg);
+    height: 250px;
+    background-size: cover;
+}
+.s13 .div2{
+      background-image: url(../imagem/lua2.jpg);
+    height: 250px;
+    background-size: cover;
+}
+.s13 .div3{
+    background-image: url(../imagem/lua3.jpg);
+    height: 250px;
+    background-size: cover;
+}
+.s13 .div4{
+    background-image: url(../imagem/lua4.jpg);
+    height: 250px;
+    background-size: cover;
+}
+.s13 .div5{
+    background-image: url(../imagem/lua5.jpg);
+    height: 250px;
+    background-size: cover;
+}
+.s13 .div6{
+    background-image: url(../imagem/lua6.jpg);
+    height: 250px;
+    background-size: cover;
+}
+.s13 .div7{
+    background-image: url(../imagem/lua7.jpg);
+    height: 250px;
+    background-size: cover;
+}
+.s13 .div8{
+    background-image: url(../imagem/lua8.jpg);
+    height: 250px;
+    background-size: cover;
+}
+.s13 .div9{
+    background-image: url(../imagem/lua9.jpg);
+    height: 250px;
+    background-size: cover;
+}
+.s13 .div10{
+    background-image: url(../imagem/lua10.jpg);
+    height: 250px;
+    background-size: cover;
+}
+.s13 .div11{
+    background-image: url(../imagem/lua11.jpg);
+    height: 250px;
+    background-size: cover;
+}
+.s13 .div12{
+    background-image: url(../imagem/lua12.jpg);
+    height: 250px;
+    background-size: cover;
+}
+.s13 .div13{
+    background-image: url(../imagem/lua13.jpg);
+    height: 250px;
+    background-size: cover;
+}
+.especial{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 750px;
+}
+
+.s14 div{
+    margin-top: 70px;
+    
+} 
+.ex{
+    font-size: 30px;
+    color: chocolate;
+}
+.im{
+    width: 60%;
+    margin-left: 240px;
+    margin-top: 60px;
+}
+.s15{
+    background-image: url(../imagem/especialidade.jpg);
+    background-size: cover;
+    background-color: black;
+}
+.s16 .div01{
+    background-image: url(../imagem/vi1.jpg);
+    background-size: cover;
+    padding-right: 50px;
+    height: 200px;
+    color: white;
+    
+}
+.s16 .div02{
+    background-image: url(../imagem/vi2.jpg);
+    border: 20px;
+    background-size: cover;
+}
+.s16 .div03{
+    background-image: url(../imagem/vi3.jpg);
+    border: 20px;
+    background-size: cover;
+}
+.f1{
+    font-size: 30px;
+    margin-left: 700px;
+    margin-top: 30px;
+}
+.bu{
+    width: 20%;;
+    margin-top: 8%;
+    margin-left: 450px;
+    margin-bottom: 10%;
+    height: 40px;
+    background-color: rgb(152, 93, 34);
+}
+.s16 h2{
+    margin-top: 100px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.s16{
+    width: 85%;
+}
+.cc{
+    margin-left: 400px;
+    font-size: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(18, 18, 243);
+}
+.cc0{
+    margin-left: 800px;
+    font-size: 40px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: rgb(92, 92, 158);
+}
+.s17 div{
+    background-color:bisque;
+    border: 10px solid white;
+    height: 200px;
+    width: 30%;
+    margin-top: 10px;
+}
+.s17 button{
+    background-color: rrgb(132, 117, 110);
+    height: 30px;
+    width: 50%;
+    border-radius:10px ;
+}
+.car{
+    margin-left: 600px;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+.uti{
+    width: 60%;
+    border-radius: 40px;
+    margin-bottom: 40px;
+}
+.s18{
+    font-size: 25px;
+    color:rgb(50, 25, 89);
+    margin-left: 200px;
+}
+.p1{
+    height: 105px;
+}
+.s19 div{
+    margin-left: 100px;
+    margin-bottom: 22px;
+    border: 20px solid rgb(245, 248, 250);
+    border-radius: 10px;
+    
+    
+    
+}
+.urutau{
+   
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.s20{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.s21 div{
+    border: 8px solid rgb(124, 120, 120);
+    border-radius: 8px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.s22 div{
+    margin-bottom: 50px;
+    
+
+}
+.bbb{
+    margin-top: 10px;
+    font-size: 30px;
+    color: rgb(229, 97, 97);
+    margin-bottom: 20px;
+}
+.s23 div{
+    margin-top: 50px;
+    
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.mm{
+    width: 30%;
+    margin-left: 200px;
+    margin-top: 40px;
+    
+}
+.d1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 700px;
+    margin-bottom: 30px;
+
+}
+.s00 div{
+    width: 30%;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    
+    
+
+}
+.v1{
+    background-color: rgb(125, 129, 122);
+}
+.v2{
+    background-color: rgb(95, 86, 70);
+}
+.v3{
+    background-color: rgb(96, 77, 59);
+}
+/*classes dos 3D*/
+.zapp img{
+    width: 100px;
+    height: 100px;
+}
+.zapp{
+    position: fixed;
+    z-index: 1;
+    top: 90%;
+    left: 92%;
+}
+.zapp img:hover{
+    transform:scale(1.5);
+    transition: 0.75 ease-in-out;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco1:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco2 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco2:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco3 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco3:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco4 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco4:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco5 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco5:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco6 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco6:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco7 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco7:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco8 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco8:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco9 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco9:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco10 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco10:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco11 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco11:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco12 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco12:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco13 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco13:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco14 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco14:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco15 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco15:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco16 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco16:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco17 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco17:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco18 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco18:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco19 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco19:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco20 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco20:target{
+    display: block;
+}
+.foco{
+    display: none;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    top: 0;
+}
+.foco21 img{
+    margin-top: 300px;
+    margin-left: 40%;
+    width: 40%;
+    height: 60%;
+    z-index: 3;
+}
+#foco21:target{
+    display: block;
+}
+.medico{
+    background-color: rgba(0, 0, 0, 0.697);
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+.branco{
+    background-color: white;
+    width: 40%;
+    margin-top: 200px;
+    margin-left: 30%;
+    padding: 30px;
+}
+.a1{
+    background-color: black;
+    color: white;
+    margin-right: 40%;
+    margin-top: 10px;
+    padding: 10px;
+}
+#medico1:target{
+    display: block;
+}
+#medico2:target{
+    display: block;
+}
+#medico3:target{
+    display: block;
+}
+#medico4:target{
+    display: block;
+}
+#medico5:target{
+    display: block;
+}
+#medico6:target{
+    display: block;
+}
+#medico7:target{
+    display: block;
+}
+#medico8:target{
+    display: block;
+}
+#medico9:target{
+    display: block;
+}
+#medico10:target{
+    display: block;
+}
+#medico11:target{
+    display: block;
+}
+#medico12:target{
+    display: block;
+}
+#medico13:target{
+    display: block;
+}
+#medico14:target{
+    display: block;
+}
+#medico15:target{
+    display: block;
+}
+#medico16:target{
+    display: block;
+}
+#medico17:target{
+    display: block;
+}
+#medico18:target{
+    display: block;
+}
+#medico19:target{
+    display: block;
+}
+#medico20:target{
+    display: block;
+}
+#medico21:target{
+    display: block;
+}
+#medico22:target{
+    display: block;
+}
+#medico23:target{
+    display: block;
+}
+.s17 div  img{
+    height: 100px;
+    width: 50%;
+    
+}
